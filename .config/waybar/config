@@ -1,4 +1,5 @@
 {
+  "separate-outputs": true,
   "layer": "top",
   "height": 37,
   "spacing": 5,
