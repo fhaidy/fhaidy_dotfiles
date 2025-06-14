@@ -1,0 +1,77 @@
+/* Cozy Balanced Pink Wofi Theme - Soft, Readable, and Warm */
+
+* {
+  font-family: "JetBrainsMono Nerd Font";
+  color: #5a4d52; /* soft plum-brown for comfy text */
+}
+
+window {
+  border: 2px solid #bda1aa; /* dusty mauve border */
+  background: rgba(220, 190, 200, 0.80); /* muted rose clay */
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 16px rgba(180, 150, 160, 0.25);
+}
+
+#input {
+  margin: 1.5em;
+  margin-bottom: 0em;
+  padding: 1em;
+  border: none;
+  font-weight: bold;
+  background: rgba(232, 210, 218, 0.6); /* light muted pink */
+  color: #5a4d52;
+  border-radius: 12px;
+  backdrop-filter: blur(5px);
+}
+
+#input:focus {
+  border: 1px solid #a98b95;
+}
+
+#inner-box {
+  margin: 1.5em;
+  margin-top: 0.5em;
+}
+
+#outer-box {
+  margin-bottom: 0.5em;
+}
+
+#scroll {
+  margin-top: 5px;
+}
+
+#text {
+  margin-left: 0.5em;
+  color: #5a4d52;
+}
+
+#text:selected {
+  color: #fff8fa; /* soft warm white */
+  text-shadow: 0 1px 1px rgba(90, 80, 85, 0.3);
+}
+
+#entry {
+  margin-top: 0.5em;
+  border-radius: 12px;
+  background: rgba(210, 185, 195, 0.3); /* desaturated mauve-pink */
+}
+
+#entry:selected {
+  background: rgba(165, 135, 145, 0.9);
+  border: none;
+  outline: none;
+}
+
+#entry image {
+  min-height: 16px;
+  min-width: 16px;
+  max-height: 16px;
+  max-width: 16px;
+  padding: 0;
+  margin-left: 0.5em;
+  margin-right: 0.75em;
+  -gtk-icon-transform: scale(0.7);
+}
+

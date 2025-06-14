@@ -1,0 +1,14 @@
+[2025-06-13 19:56:42.799] [info]  No state version found, assuming empty state.
+[2025-06-13 19:56:42.846] [info]  Coredumps are disabled in renderer process
+[2025-06-13 19:56:43.092] [info]  SSH agent started
+[2025-06-13 19:56:43.093] [info]  State version: 70
+[2025-06-13 19:57:21.275] [info]  Retrieving application id
+[2025-06-13 19:57:34.647] [info]  [KeyService] Deriving master key took 13ms
+[2025-06-13 19:57:34.648] [info]  Retrieving application id
+[2025-06-13 19:57:58.808] [info]  Error: no result
+[2025-06-13 19:57:59.373] [info]  WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkJDMzZDMjE0REI0OEYyMzVCNzdEQTNGMTcyMEMxQTM1QTk2MkVBNDNSUzI1NiIsIng1dCI6InZEYkNGTnRJOGpXM2ZhUHhjZ3dhTmFsaTZrTSIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL2lkZW50aXR5LmJpdHdhcmRlbi5jb20iLCJuYmYiOjE3NDk4NTU0NzgsImlhdCI6MTc0OTg1NTQ3OCwiZXhwIjoxNzQ5ODU5MDc4LCJzY29wZSI6WyJhcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsiQXBwbGljYXRpb24iXSwiY2xpZW50X2lkIjoiZGVza3RvcCIsInN1YiI6ImU4YWM0NjQwLWJmYjMtNDVjNC1hYWE1LWFmNmYwMGVkM2U0NSIsImF1dGhfdGltZSI6MTc0OTg1NTQ3OCwiaWRwIjoiYml0d2FyZGVuIiwicHJlbWl1bSI6dHJ1ZSwiZW1haWwiOiJmaGFpZHlAb3V0bG9vay5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwic3N0YW1wIjoiVFJVWjJOWjdaTUwzUUNaUTI3NTNKMkkyV0o0Q09IUVYiLCJuYW1lIjoiRmhhaWR5IiwiZGV2aWNlIjoiNTQxZjFjYWYtMmZkNC00OTFlLWI5YjEtNTNmNDA4YjU2MTBlIiwiZGV2aWNldHlwZSI6IkxpbnV4RGVza3RvcCIsImp0aSI6IjUwQTg3NTlDMzU5NUMxQ0ZEQTgxQkNDMTNDNjNCNkM2In0.lY-za1739s31mbdFCXJBnbP2rUcMHgShvOM4kOWEz5sTyFPojwwWWvkMMmmqbtbPtsRkhKOtVCj3m3GNyp0OJfDhjbUQTIQ_Xo7fGJoaAH4DE_iY-Fsx7djp6MzscqesGPVyYyAqnZAYDxgUAVtFp_t50evNxQziRx1d8qR8lLPswda0mxIhHSJbAJG6imkjbpNd_9Ivl9QBLDGZ-HluHlcbnHfX2KGvvVqwBZlmY9bslJsNSreF8bHj1eTYih3CFhDf9V6flM8Cd5WTQBUqFHTt5QWufCRiOlC2q-2IaOQako2fXvDxibGJ9_DgJUya4oCLSxXcinN7t7IFJPwnw7SWOs6xCiglwdh99FnzTNSTP2pbFqnrakXVPUUd0KHW6wbHn2kcZ9y8nKa5jzpmm3Z1_bExZ8nQCbggUN6RmEok4J99RDncAcppP2SNm3tbRy-u3DjMpw3QYj2_914EVfpF8eb4cWNa2TZdf1v7noLOOD3OUYS-wnCE2_9YZtJRZ8NsxOfMj3Vp1xRkCklqwgNu55nE_egNKBs4dXjufhB3FY_f5nMgP0JKWcWoBLLTT6kZthfDtCg6dPt7Veamxg7UVkK4EJbKDetln8lv8tnXBgjdSwYVRx6GVyII2G-Hruq7foEU1KSkoE74qcosPlzv6-bwbcQppzATc3_T1nY.
+[2025-06-13 19:57:59.373] [info]  Using HubProtocol 'messagepack'.
+[2025-06-13 19:57:59.742] [info]  Starting decryption using multithreading with 1 workers for 60 items
+[2025-06-13 19:57:59.796] [info]  Finished decrypting 60 items using 1 workers
+[2025-06-13 19:57:59.796] [info]  [CipherService] Decrypting 60 ciphers took 55ms
+[2025-06-13 19:57:59.812] [info]  [SearchService] Building search index of 60 ciphers took 15ms

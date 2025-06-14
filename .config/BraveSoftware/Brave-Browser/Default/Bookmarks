@@ -1,0 +1,80 @@
+{
+   "checksum": "390fc3af6a46c1657a158fe660867505",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13394329097192941",
+            "date_last_used": "0",
+            "guid": "dec4864b-f316-46cf-bf95-ddf5824a8ea9",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://kick.com/"
+         }, {
+            "date_added": "13394329449889301",
+            "date_last_used": "13394334066117060",
+            "guid": "5f3af737-85a0-4ae8-a633-8629175daafb",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13394333565042439",
+            "date_last_used": "0",
+            "guid": "02a914cb-fdc1-4ad8-a616-c92a7fe60b07",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://play.max.com/"
+         }, {
+            "date_added": "13394333575514846",
+            "date_last_used": "0",
+            "guid": "ce018e91-8260-448e-94d4-276baf11f8b1",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.twitch.tv/"
+         } ],
+         "date_added": "13394328506781651",
+         "date_last_used": "0",
+         "date_modified": "13394333575514846",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13394328506781652",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13394328506781653",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

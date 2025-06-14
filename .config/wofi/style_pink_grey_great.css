@@ -1,0 +1,81 @@
+* {
+  font-family: "JetBrainsMono Nerd Font";
+  color: #5e4b56; /* cozy muted plum */
+}
+
+/* Window base styling */
+window {
+  border: 2px solid #d8c2ca; /* soft mauve border */
+  background: rgba(246, 231, 234, 0.75); /* soft blush pink */
+  border-radius: 18px;
+  backdrop-filter: blur(14px);
+  box-shadow: 0 0 25px rgba(203, 187, 194, 0.25);
+}
+
+/* Input box */
+#input {
+  margin: 1.5em;
+  margin-bottom: 0em;
+  padding: 1em;
+  border: none;
+  font-weight: bold;
+  background: rgba(255, 245, 247, 0.6); /* ultra soft rose pink */
+  color: #5e4b56;
+  border-radius: 12px;
+  backdrop-filter: blur(6px);
+}
+
+#input:focus {
+  border: 1px solid #b7a6af;
+}
+
+/* Layout boxes */
+#inner-box {
+  margin: 1.5em;
+  margin-top: 0.5em;
+}
+
+#outer-box {
+  margin-bottom: 0.5em;
+}
+
+#scroll {
+  margin-top: 5px;
+}
+
+/* Text appearance */
+#text {
+  margin-left: 0.5em;
+  color: #5e4b56;
+}
+
+#text:selected {
+  color: #ffffff; /* ensure good contrast when selected */
+}
+
+/* Entry styling */
+#entry {
+  margin-top: 0.5em;
+  border-radius: 12px;
+  background: rgba(255, 240, 245, 0.4); /* cotton-candy pink */
+}
+
+/* Selected entry appearance */
+#entry:selected {
+  background: rgba(210, 180, 190, 0.8); /* muted cozy pink */
+  border: none;
+  outline: none;
+}
+
+/* Smaller icons */
+#entry image {
+  min-height: 16px;
+  min-width: 16px;
+  max-height: 16px;
+  max-width: 16px;
+  padding: 0;
+  margin-left: 0.5em;
+  margin-right: 0.75em;
+  -gtk-icon-transform: scale(0.7); /* force scale-down via GTK hint */
+}
+

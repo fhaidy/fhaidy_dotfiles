@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+curl -s wttr.in/paranavai?format="%t+%c\n" | xargs
+

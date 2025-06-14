@@ -1,0 +1,63 @@
+/* Cozy Wofi Theme by Knightfall01 (Modified by ChatGPT) */
+
+* {
+  font-family: "JetBrainsMono Nerd Font";
+  color: #e0d7dd; /* soft text color */
+}
+
+window {
+  border: 2px solid #e8b0c9; /* soft pink border */
+  background: rgba(40, 40, 48, 0.8); /* semi-transparent dark grey */
+  border-radius: 18px;
+  backdrop-filter: blur(12px); /* blur effect for cozy glassy look */
+  box-shadow: 0 0 20px rgba(232, 176, 201, 0.2); /* subtle pink glow */
+}
+
+#input {
+  margin: 1.5em;
+  margin-bottom: 0em;
+  padding: 1em;
+  border: none;
+  font-weight: bold;
+  background: rgba(50, 50, 58, 0.6);
+  color: #e0d7dd;
+  border-radius: 12px;
+  backdrop-filter: blur(8px);
+}
+
+#input:focus {
+  border: 1px solid #f0a6ca;
+}
+
+#inner-box {
+  margin: 1.5em;
+  margin-top: 0.5em;
+}
+
+#outer-box {
+  margin-bottom: 0.5em;
+}
+
+#scroll {
+  margin-top: 5px;
+}
+
+#text {
+  margin-left: 0.5em;
+  color: #e0d7dd;
+}
+
+#text:selected {
+  color: #2e2a2e; /* dark text on light pink */
+}
+
+#entry {
+  margin-top: 0.5em;
+  border-radius: 12px;
+  background: rgba(60, 60, 68, 0.4); /* subtle darker base */
+}
+
+#entry:selected {
+  background: linear-gradient(90deg, #f0a6ca 0%, #dbaedb 100%);
+}
+

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "6b66d151-d273-4e3f-938f-eefd0ce2b861",
+      "logo": {
+        "imageUrl": "c8de2786-27ae-43bc-bcb9-4a2f5d87daa1/2e0450c7-9727-43e0-9bea-4289539c9c2f.png",
+        "destinationUrl": "https://decentraland.org/blog/announcements/marketplace-credits-earn-weekly-rewards-to-power-up-your-look?utm_org=dcl&utm_source=brave&utm_medium=paid&utm_campaign=marketplacecredits&utm_term=newtabtakeover",
+        "alt": "Decentraland - Earn Marketplace Creidts to upgrade your avatar - Earn Now",
+        "companyName": "Decentraland"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "c8de2786-27ae-43bc-bcb9-4a2f5d87daa1/0764ced0-d9d6-4359-b271-71d6a2c81bb1.jpg",
+          "creativeInstanceId": "889aba64-8e78-458b-abed-78440f7d282b",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "13017f86-2a00-4edc-8202-81a45fa750c8/11b2f1dc-3c05-4ab1-8f11-86b14d1a9602.jpg",
+          "creativeInstanceId": "416fee41-08cf-4732-aaab-48fb68adaa05",
+          "focalPoint": {
+            "x": 1551,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "13017f86-2a00-4edc-8202-81a45fa750c8/5e6a6926-d8e7-4471-b913-691d56beec72.png",
+            "destinationUrl": "https://www.guanocoin.com/",
+            "alt": "Guano - Unlock reward! Secure your $BAT tokens in the BAT cave on solana and start earning $GUANO",
+            "companyName": "Guano"
+          }
+        },
+        {
+          "imageUrl": "fbc59ea2-9666-4349-be51-ef75ab269f97/9de26879-8129-4299-9257-504981b724ce.jpg",
+          "creativeInstanceId": "20707a89-c151-4320-bbeb-d47614c5dc81",
+          "focalPoint": {
+            "x": 1292,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "fbc59ea2-9666-4349-be51-ef75ab269f97/864f6323-7a56-4ed7-8886-876a51763eee.png",
+            "destinationUrl": "https://unstoppabledomains.com/?utm_campaign=Brave%20UD%20Ads",
+            "alt": "Unstoppable Domains - It's your nome. Own it. - Domains  from $2, No gas fees, ownership for life.",
+            "companyName": "Unstoppable Domains"
+          }
+        }
+      ]
+    },
+    {
+      "campaignId": "cfb9455a-04fd-40ea-8b76-7ca46f4cdd51",
+      "logo": {
+        "imageUrl": "65a01b92-6c76-4170-b5b8-806f8023c402/057b184b-fe87-48c1-bdfa-e315cbccd032.png",
+        "destinationUrl": "https://www.stepn.com/",
+        "alt": "STEPN GO - Spend your web3 earnings - Learn More",
+        "companyName": "FSL | STEPN"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "65a01b92-6c76-4170-b5b8-806f8023c402/23b08838-6853-4720-800b-da0899f91700.jpg",
+          "creativeInstanceId": "ed29b1c0-89ff-4fa5-843d-c47467a40c2a",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "6b66d151-d273-4e3f-938f-eefd0ce2b861",
+      "logo": {
+        "imageUrl": "c8de2786-27ae-43bc-bcb9-4a2f5d87daa1/2e0450c7-9727-43e0-9bea-4289539c9c2f.png",
+        "destinationUrl": "https://decentraland.org/blog/announcements/marketplace-credits-earn-weekly-rewards-to-power-up-your-look?utm_org=dcl&utm_source=brave&utm_medium=paid&utm_campaign=marketplacecredits&utm_term=newtabtakeover",
+        "alt": "Decentraland - Earn Marketplace Creidts to upgrade your avatar - Earn Now",
+        "companyName": "Decentraland"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "c8de2786-27ae-43bc-bcb9-4a2f5d87daa1/0764ced0-d9d6-4359-b271-71d6a2c81bb1.jpg",
+          "creativeInstanceId": "889aba64-8e78-458b-abed-78440f7d282b",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "13017f86-2a00-4edc-8202-81a45fa750c8/11b2f1dc-3c05-4ab1-8f11-86b14d1a9602.jpg",
+          "creativeInstanceId": "416fee41-08cf-4732-aaab-48fb68adaa05",
+          "focalPoint": {
+            "x": 1551,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "13017f86-2a00-4edc-8202-81a45fa750c8/5e6a6926-d8e7-4471-b913-691d56beec72.png",
+            "destinationUrl": "https://www.guanocoin.com/",
+            "alt": "Guano - Unlock reward! Secure your $BAT tokens in the BAT cave on solana and start earning $GUANO",
+            "companyName": "Guano"
+          }
+        },
+        {
+          "imageUrl": "fbc59ea2-9666-4349-be51-ef75ab269f97/9de26879-8129-4299-9257-504981b724ce.jpg",
+          "creativeInstanceId": "20707a89-c151-4320-bbeb-d47614c5dc81",
+          "focalPoint": {
+            "x": 1292,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "fbc59ea2-9666-4349-be51-ef75ab269f97/864f6323-7a56-4ed7-8886-876a51763eee.png",
+            "destinationUrl": "https://unstoppabledomains.com/?utm_campaign=Brave%20UD%20Ads",
+            "alt": "Unstoppable Domains - It's your nome. Own it. - Domains  from $2, No gas fees, ownership for life.",
+            "companyName": "Unstoppable Domains"
+          }
+        }
+      ]
+    },
+    {
+      "campaignId": "cfb9455a-04fd-40ea-8b76-7ca46f4cdd51",
+      "logo": {
+        "imageUrl": "65a01b92-6c76-4170-b5b8-806f8023c402/057b184b-fe87-48c1-bdfa-e315cbccd032.png",
+        "destinationUrl": "https://www.stepn.com/",
+        "alt": "STEPN GO - Spend your web3 earnings - Learn More",
+        "companyName": "FSL | STEPN"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "65a01b92-6c76-4170-b5b8-806f8023c402/23b08838-6853-4720-800b-da0899f91700.jpg",
+          "creativeInstanceId": "ed29b1c0-89ff-4fa5-843d-c47467a40c2a",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ]
+}
