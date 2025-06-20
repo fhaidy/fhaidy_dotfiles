@@ -13,7 +13,7 @@
     "pulseaudio",
     "network",
 //    "battery",
-    "clock",
+    "clock#full",
     "custom/notification",
     "custom/power"
   ],
@@ -25,9 +25,9 @@
     "on-click": "activate",
     "format-icons": {
       "1": "󰌽",
-      "2": "󰮯",
+      "2": "󰊤",
       "3": "",
-      //"4": "󰊤",
+      //"4": "󰮯",
       //"5": "󰣇",
       "urgent": "",
       "active": "",
@@ -36,7 +36,7 @@
     "persistent-workspaces": {
       "DP-2": [1,2],
       //"2": ["DP-2"],
-      "HDMI-A-2": [3]
+      "HDMI-A-1": [3]
     }
   },
   "user": {
@@ -147,8 +147,29 @@
     "interval": 3600,
     "format": "{}",
     "return-type": "text"
-  }
-
+  },
+  "clock#full": {
+	"format": "{:%I:%M}  ",
+	"tooltip-format": "<span size='9pt' font='WenQuanYi Zen Hei Mono'>{calendar}</span>",
+	"calendar": {
+		"mode"          : "year",
+		"mode-mon-col"  : 3,
+		"weeks-pos"     : "right",
+		"on-scroll"     : 1,
+		"on-click-right": "mode",
+		"format": {
+			"months":     "<span color='#ffead3'><b>{}</b></span>",
+			"days":       "<span color='#ecc6d9'><b>{}</b></span>",
+			"weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
+			"weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
+			"today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
+		}
+	},
+	"actions": {
+		"on-scroll-up": "shift_up",
+		"on-scroll-down": "shift_down"
+	}
+  },
 }
 
 
