@@ -5,7 +5,7 @@
   "spacing": 5,
   // Choose the order of the modules
   "modules-left": ["hyprland/workspaces", "custom/spotify"],
-  "modules-center": ["user"],
+  "modules-center": ["clock#full", "custom/weather"],
   "modules-right": [
     "tray",
     "bluetooth",
@@ -13,7 +13,7 @@
     "pulseaudio",
     "network",
 //    "battery",
-    "clock#full",
+    //"clock#full",
     "custom/notification",
     "custom/power"
   ],
@@ -40,7 +40,7 @@
     }
   },
   "user": {
-    "format": "  fhaidy | ({work_H}hr {work_M} mins ↑) ",
+    "format": "  ({work_H}hr {work_M} mins) | fhaidy",
     "interval": 60,
     "height": 23,
     "width": 23,
