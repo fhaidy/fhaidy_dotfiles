@@ -75,6 +75,7 @@ button {
 
 #workspaces button:hover {
     color: @blue;
+    background: none;
     box-shadow: inherit;
     text-shadow: inherit;
 }
