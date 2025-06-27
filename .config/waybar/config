@@ -149,7 +149,7 @@
     "return-type": "text"
   },
   "clock#full": {
-	"format": "{:%I:%M}  ",
+	"format": "{:%A %d, %I:%M}  ",
 	"tooltip-format": "<span size='9pt' font='WenQuanYi Zen Hei Mono'>{calendar}</span>",
 	"calendar": {
 		"mode"          : "year",
